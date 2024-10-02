@@ -900,6 +900,10 @@ p {
     width: 20px;
     height: 20px;
   }
+
+  .header__logo img {
+    height: 27px;
+  }
 }
 
 @media (max-width: 480px) {
